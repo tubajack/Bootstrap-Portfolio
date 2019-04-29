@@ -13,7 +13,7 @@ to become a full stack software engineer in the future.
 
 Some of my research interests include Artificial Intelligence and Machine Learning. These fields interest me because I aspire to learn more about the systems and tools we interact with daily, figure out ways to improve them, and help create cutting edge applications which will make the world a better place. 
 
-#Portfolio
+# Portfolio
 The portfolio describes projects that I have been working on, both at the Coding Bootcamp and outside of Coding Bootcamp. 
 
 Recently, I worked with three other developers on a CityRank project. 
@@ -33,3 +33,7 @@ This formula was used for all 182 cities in our database.
 Each distance was dumped into an array, and this array would then be sorted from least distance to greatest distance. 
 The shortest distance would ultimately give us the 'best' match based on those factors. 
 
+Another Challenge was the fact that affordability had a massive range (82,500 to 900,000). If we did not scale all of our factors, affordability would have had approximately a 99.99% weight and the other 2 factors would have had no weight at all. 
+
+To fix this problem, we took the difference of the userPreference value and the minimum value and then multiplied that by the quotient of 100 and the range. 
+(userPrefence - minValue) * (100/(maxValue-minValue)
