@@ -16,6 +16,7 @@ Some of my research interests include Artificial Intelligence and Machine Learni
 # Portfolio
 The portfolio describes projects that I have been working on, both at the Coding Bootcamp and outside of Coding Bootcamp. 
 
+## Group Project- CityRank
 Recently, I worked with three other developers on a CityRank project. 
 In this project, we ranked cities throughout the United States based on three factors: Happiness, Affordability and Political Views. 
 
