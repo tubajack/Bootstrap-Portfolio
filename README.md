@@ -48,7 +48,12 @@ Link to the GitHub Code: https://github.com/team-jjtg/CityRank
 Another project that I worked on was a project to build a Train Scheduler. 
 
 To build the basic structure of the website, I used Bootstrap. 
+
 JavaScript was used for the logic of the website. 
+
 jQuery was used for functionality. 
+
 Firebase was used for the database. 
+
+**Challenge** : Trying to manipulate Firebase to get all data to display. 
 
