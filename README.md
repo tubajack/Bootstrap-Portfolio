@@ -41,9 +41,10 @@ To fix this problem, we took the difference of the userPreference value and the 
 Formula used: *(userPrefence - minValue) * (100/(maxValue-minValue)*
 
 Deployed Code: https://team-jjtg.github.io/CityRank/
+
 Link to the GitHub Code: https://github.com/team-jjtg/CityRank
 
-##Train Scheduler
+## Train Scheduler
 Another project that I worked on was a project to build a Train Scheduler. 
 
 To build the basic structure of the website, I used Bootstrap. 
