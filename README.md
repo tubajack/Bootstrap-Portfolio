@@ -37,4 +37,9 @@ The shortest distance would ultimately give us the 'best' match based on those f
 Another Challenge was the fact that affordability had a massive range (82,500 to 900,000). If we did not scale all of our factors, affordability would have had approximately a 99.99% weight and the other 2 factors would have had no weight at all. 
 
 To fix this problem, we took the difference of the userPreference value and the minimum value and then multiplied that by the quotient of 100 and the range. 
-(userPrefence - minValue) * (100/(maxValue-minValue)
+
+Formula used: *(userPrefence - minValue) * (100/(maxValue-minValue)*
+Deployed Code: https://team-jjtg.github.io/CityRank/
+Link to the GitHub Code: https://github.com/team-jjtg/CityRank
+
+
