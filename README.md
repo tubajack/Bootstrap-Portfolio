@@ -39,7 +39,15 @@ Another Challenge was the fact that affordability had a massive range (82,500 to
 To fix this problem, we took the difference of the userPreference value and the minimum value and then multiplied that by the quotient of 100 and the range. 
 
 Formula used: *(userPrefence - minValue) * (100/(maxValue-minValue)*
+
 Deployed Code: https://team-jjtg.github.io/CityRank/
 Link to the GitHub Code: https://github.com/team-jjtg/CityRank
 
+##Train Scheduler
+Another project that I worked on was a project to build a Train Scheduler. 
+
+To build the basic structure of the website, I used Bootstrap. 
+JavaScript was used for the logic of the website. 
+jQuery was used for functionality. 
+Firebase was used for the database. 
 
