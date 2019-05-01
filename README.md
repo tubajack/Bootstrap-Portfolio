@@ -56,7 +56,6 @@ jQuery was used for functionality.
 Firebase was used for the database. 
 
 **Challenge** : Trying to get Firebase to display all of the data. 
-When I was working on this project, I ran into this error. 
 
 
 
