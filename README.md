@@ -81,6 +81,15 @@ Another project created in this bootcamp was to create a Trivia Game.
 
 I decided to create this Trivia game about my undergraduate school, Baylor University. 
 
+Languages used: HTML, JavaScript, jQuery
+
+**Challenge** : I had a merge conflict problem on GitHub. 
+This problem took about 30 minutes to solve. 
+![alt text](images/TriviaGameChallenge.png)
+*Solution*: There were a couple of corrupted files on the GitHub file. I had to delete the files from GitHub and from my file. 
+To preserve the questions I had, I copied all questions to a notepad file. 
+
+
 Deployed Code: https://tubajack.github.io/TriviaGame/
 
 Link to the GitHub repo: https://github.com/tubajack/TriviaGame
