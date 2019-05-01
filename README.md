@@ -56,7 +56,11 @@ jQuery was used for functionality.
 Firebase was used for the database. 
 
 **Challenge** : Trying to get Firebase to display all of the data. 
+<<<<<<< HEAD
 When I was working on this project, I ran into this error. 
 ![alt text](images/TrainError.jpg)
+=======
+
+>>>>>>> 3f542fa9ac9cc99031236214a629e41f67eb59f2
 
 
