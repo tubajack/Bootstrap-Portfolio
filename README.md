@@ -60,4 +60,18 @@ When I was working on this project, I ran into this error.
 ![alt text](images/TrainError.jpg)
 
 
+To solve this problem, I: 
+1. Got onto the Firebase website
+2. Clicked on the Database. 
+3. After that, I clicked on Realtime Database. 
+4. Went under Rules, and then set the Read and Write to true. 
+
+
+
+**2nd Challenge**: Another issue I ran into was not getting the time to display correctly.
+![alt text](images/SolvedCode.png)
+
+To solve this problem, I had to declare a variable using moment.js to display the current time. 
+I needed a current time to base the scheduler off of. 
+After declaring that variable, the time worked like it was supposed to.
 
