@@ -98,7 +98,7 @@ Link to the GitHub repo: https://github.com/tubajack/TriviaGame
 
 **Twitter**: https://twitter.com/tubajack?lang=en
 
-**LinkedIn**: https://www.linkedin.com/in/jackson-henry/
+**LinkedIn**: https://www.linkedin.com/in/jacksonahenry/
 
 **GitHub**: https://github.com/tubajack
 
